@@ -3,7 +3,7 @@ title: "Week 2 Learning Progress"
 date: 2023-02-08
 ---
 
-For the second week of my preparation I have started with learning packages and importing required packages for the program. Packages prevent from naming conflicts.  For example, import java.util.* is a built-in package that contains various utility classes and interfaces. A java package is a group of similar types of classes, interfaces and sub-packages. There are two types called built-in and user-defined packages. Some examples of built-in are lang,util,io,sql etc., Also, I have learnt all the selection statements and their syntaxes such as
+For the second week of my preparation I have started with learning packages and importing required packages for the program. Packages prevent from naming conflicts.  For example, package[import java.util.*] is a built-in package that contains various utility classes and interfaces. A java package is a group of similar types of classes, interfaces and sub-packages. There are two types called built-in and user-defined packages. Some examples of built-in are lang,util,io,sql etc., Also, I have learnt all the selection statements and their syntaxes such as
 1. if--->"if" statement is used to evaluate a condition i.e if a certain condition is true then a block of statements is executed otherwise not.In other words, it is used to execute a block of code if a certain condition is met.
 if(condition) 
 {
@@ -67,6 +67,6 @@ I have also covered some of the loops in java like while, do-while and for loop.
 Summary:
 In Java, control statements and looping constructs are used to control the flow of a program's execution. Each of these constructs is used to execute a block of code based on certain conditions or to repeat a specific action multiple times.
 
-
+Here are some of my practice codes 
 
 
