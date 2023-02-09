@@ -1,5 +1,5 @@
 ---
-title: "Blog on my new Learning Language"
+title: "Week 2 Learning Progress"
 date: 2023-02-08
 ---
 
