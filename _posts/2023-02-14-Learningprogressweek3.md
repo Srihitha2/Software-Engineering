@@ -16,8 +16,8 @@ return: In Java, return is a keyword that is used to exit a method and return a 
 syntax: return expression;
 [return](https://github.com/Srihitha2/Software-Engineering/blob/main/codes/return.java)
 I had some hands-on time with the topics I have discussed so far such as data types, loops, conditional statements, and functions.
-
-
+Challenges: My main challenge was knowing where to look for errors. Debugging errors in various parts of the program, such as the syntax, logical errors, or issues with the input/output especially when working on complex programs.
+One more challenge is understanding algorithms and different components of the program.
 
 
 
