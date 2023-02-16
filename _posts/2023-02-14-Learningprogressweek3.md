@@ -11,7 +11,11 @@ Continue: The "continue" statement is used within a loop to skip the current ite
 syntax: continue;
 [Continue](https://github.com/Srihitha2/Software-Engineering/blob/main/codes/continue.java). Here in this code for loop is used to iterate from 1 to 10. Within the loop, "if" statement is used to check if the current value of "i" is odd. If "i" is odd, the "continue" statement is executed, skipping the remaining statements in the current iteration and moving on to the next iteration. If "i" is even, the remaining statements are executed and the value of "i" is printed to the console. Output is 2 4 6 8 10
 Using continue inside a while loop: [continue_while](https://github.com/Srihitha2/Software-Engineering/blob/main/codes/continue_while.java) It prints even numbers from 2 to 10.
-In this example, we're using a do-while loop to print the numbers from 1 to 10, except for the numbers 3 and 7. [do-while] (https://github.com/Srihitha2/Software-Engineering/blob/main/codes/continue_do-while.java)
+In this example, we're using a do-while loop to print the numbers from 1 to 10, except for the numbers 3 and 7. [do-while](https://github.com/Srihitha2/Software-Engineering/blob/main/codes/continue_do-while.java)
+return: In Java, return is a keyword that is used to exit a method and return a value. When a return statement is executed inside a method, control is immediately transferred back to the caller of the method, and any value specified in the return statement is passed back to the caller. return is a reserved keyword i.e, we can’t use it as an identifier. 
+syntax: return expression;
+[return](https://github.com/Srihitha2/Software-Engineering/blob/main/codes/return.java)
+I had some hands-on time with the topics I have discussed so far such as data types, loops, conditional statements, and functions.
 
 
 
