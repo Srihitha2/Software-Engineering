@@ -12,11 +12,13 @@ b. By new keyword- String s = new String (“Hello!”);
 This syntax creates a new string object using the String constructor and assigns it to the variable s.
 In Java, the new keyword is used to create a new object of a class. When you use the new keyword, Java allocates memory for the object and returns a reference to it, which you can assign to a variable or use directly.
 For example, Person person = new Person(); In this example, the new keyword creates a new Person object and assigns a reference to it to the variable person. You can then use this reference to access the properties and methods of the Person object.
+[Stringnew](https://github.com/Srihitha2/Software-Engineering/blob/main/codes/Stringnew.java)
 In Java, the String class provides a rich set of methods for working with strings. Here are some commonly used String methods:
 1.length(): returns the length of the string.
 String str = "Hello";
 int len = str.length(); 
 output: len = 5
+[Stringlength](https://github.com/Srihitha2/Software-Engineering/blob/main/codes/Stringlength.java)
 2.charAt(int index): returns the character at the specified index in the string.
 String str = "Hello";
 char ch = str.charAt(1);     //index=1
@@ -33,13 +35,16 @@ output: lowerStr = "hello"
 String str = "Hello";
 String upperStr = str.toUpperCase();
 output: upperStr = "HELLO"
+[StringUpperCase](https://github.com/Srihitha2/Software-Engineering/blob/main/codes/StringUpperCase.java)
 6.replace(char oldChar, char newChar): returns a new string with all occurrences of oldChar replaced with newChar.
 String str = "Hello";
 String replacedStr = str.replace('l', 'w');
 output: replacedStr = "Hewwo"
+[StringReplace](https://github.com/Srihitha2/Software-Engineering/blob/main/codes/StringReplace.java)
 7.equals(String anotherString): returns true if the string is equal to anotherString, otherwise false.
 String str = "Hello";
 boolean isEqual = str.equals("Hello");
 output: isEqual = true
 8.Concatenating Strings
 string1.concat(string2);  //This returns a new string that is string1 with string2 added to it at the end.
+[StringConcat](https://github.com/Srihitha2/Software-Engineering/blob/main/codes/StringConcat.java)
