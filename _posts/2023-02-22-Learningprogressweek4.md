@@ -48,3 +48,5 @@ output: isEqual = true
 8.Concatenating Strings
 string1.concat(string2);  //This returns a new string that is string1 with string2 added to it at the end.
 [StringConcat](https://github.com/Srihitha2/Software-Engineering/blob/main/codes/StringConcat.java)
+Challenges: Null pointer exceptions.
+Error handling is one of the most facing challenge for me while practicing codes for large strings. Also,  Debugging errors in various parts of the program, such as the syntax, logical errors, or issues with the input/output especially when working on complex programs.
